@@ -1,0 +1,6 @@
+Estacion: MAR DEL PLATA AERO
+Periodo: 1981-2010
+Temperatura promedio anual : 13.9 C
+Temperatura maxima         : 26.5 C
+Temperatura minima         : 3.1 C
+Precipitacion promedio     : 77.2 mm
